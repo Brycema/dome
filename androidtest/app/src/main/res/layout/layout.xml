@@ -4,7 +4,16 @@
     android:layout_height="match_parent">
 
     <Button
+        android:id="@+id/inser"
         android:text="SB"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+    <Button
+        android:text="jon"
+        android:id="@+id/jion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1
+"/>
 </LinearLayout>
