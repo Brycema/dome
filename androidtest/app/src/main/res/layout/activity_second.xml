@@ -5,5 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".secondActivity">
-
+<TextView
+    android:text="nihao"
+    android:textSize="20dp"
+    android:id="@+id/second"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
 </android.support.constraint.ConstraintLayout>
